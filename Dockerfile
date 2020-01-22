@@ -14,7 +14,7 @@ RUN \
         automake \
 	libtool \
 	build-essential \
-	git 
+	git # \
 #	libopencv-dev
 
 # addons
